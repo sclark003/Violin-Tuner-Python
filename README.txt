@@ -8,3 +8,5 @@ to only pass when the frequency of the signal is close to the note they are tryi
 The output signal of the bandpass, is then loaded into a buffer. 
 The fast fourier transform (FFT) is taken of the buffer at regular intervals and this spectrum is then plotted on the screen continuously. 
 As a result, the output plot shows continuous frequency peaks which increase in amplitude as the input signal moves closer to the required frequency. 
+
+Project Video: https://youtu.be/uEoMFyf-NlM
